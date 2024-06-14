@@ -85,7 +85,6 @@ func GetPresensi(c *fiber.Ctx) error {
 // @Failure 400
 // @Failure 500
 // @Router /ins [post]
-
 	func InsertDataPresensi(c *fiber.Ctx) error {
 		db := config.Ulbimongoconn
 		var presensi inimodel.Presensi
