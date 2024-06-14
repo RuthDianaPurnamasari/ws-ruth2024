@@ -1,0 +1,15 @@
+basePath: /
+host: ws-ruth2024-458a1e70d2e1.herokuapp.com
+info:
+  contact:
+    email: 714220042@std.ulbi.ac.id
+    name: API Support
+    url: https://github.com/RuthDianaPurnamasari
+  description: This is a sample swagger for Fiber
+  title: TES SWAGGER ULBI
+  version: "1.0"
+paths: {}
+schemes:
+- https
+- http
+swagger: "2.0"
